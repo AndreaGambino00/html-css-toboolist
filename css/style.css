@@ -1,0 +1,202 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 70%;
+    margin: 0 auto;
+    font-family: 'Anton', sans-serif;
+}
+
+/*inizio header*/
+#logo{
+    vertical-align: middle;
+    height: 70px;
+}
+
+#logo-text{
+    font-size: 50px;
+    vertical-align: middle;
+}
+/*fine header*/
+
+
+/*inizio main*/
+.contenitore1{
+    width: 1000px;
+    height: 1000px;
+    background-color:#F6F8F9;
+    padding: 70px 0;
+}
+
+.contenitore2{
+    width: 75%;
+    height: 700px;
+    background-color:white;
+    background-position: 50px;
+    margin: 0 auto;
+    border-radius: 6px;
+}
+
+.bottone1{
+    padding: 5px;
+    background-color: #51B3F2;
+    text-align: center;
+    margin-left: 50px;
+    border-radius: 2px;
+    line-height: 60px;
+    color: white;
+}
+
+.bottone2{
+   padding: 5px ;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 2px;
+    line-height: 60px;
+    color: lightgray;
+    border-color: lightgray;
+}
+
+hr{
+    border: 1px solid #F6F8F9;
+}
+
+h2{
+    margin-left: 50px;
+}
+
+.newtask p{
+    font-size: 20px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.today p{
+    font-size: 20px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.app p{
+    font-size: 20px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.john p{
+    font-size: 20px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.summit p{
+    font-size: 20px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.up p{
+    font-size: 20px;
+    margin-left: 50px;
+    display: inline-block;
+}
+.home p{
+    font-size: 20px;
+    margin-left: 50px;
+    display: inline-block;
+
+}
+
+.onboard p{
+    font-size: 20px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.review p{
+    font-size: 20px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+/*bottoni*/
+
+.blu{
+    padding: 5px;
+    background-color:#51B3F2 ;
+    border-radius: 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.viola{
+    padding: 5px;
+    background-color:#9271D9 ;
+    border-radius: 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.verde{
+    padding: 5px;
+    background-color:#64C0A9 ;
+    border-radius: 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.giallo{
+    padding: 5px;
+    background-color:#F29E33 ;
+    border-radius: 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.rosa{
+    padding: 5px;
+    background-color:#D863A1 ;
+    border-radius: 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.verdino{
+    padding: 5px;
+    background-color:#ADBF26 ;
+    border-radius: 8px;
+    color: white;
+    font-size: 10px;
+}
+
+/* fine bottoni*/
+
+.cerchio{
+    display: inline-block;
+    margin-left: -3%;   
+    margin-right: 0.5%; 
+    font-size: 14px;   
+    border: 1px solid; 
+    border-radius: 50%;
+    height: 25px;  
+    width: 25px; 
+    text-align: center;
+}
+
+.check{
+    color: green;
+}
+
+.cross{
+    color: red;
+}
+
+span{
+    font-size: 20px;
+}
+
+/*fine main*/
+
+
